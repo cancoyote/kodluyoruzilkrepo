@@ -25,4 +25,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 ## Licence
 
-[MIT]([https://www.mit.org](https://opensource.org/license/mit/)https://opensource.org/license/mit/)
+[MIT](https://opensource.org/license/mit/)
